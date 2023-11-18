@@ -6,8 +6,10 @@
 
 https://core.telegram.org/stickers
 
-## Description
-
+## Goal
+Easily generate telegram stickers by:
+- Convert any files to a format compatible to telegram sticker.
+- Generate a sticker pack from a directory of images.
 
 ## Run
 1. Install ffmpeg
@@ -21,5 +23,6 @@ python3 src/main.py
 The project is **not ready for production use**.
 It currently only supports video Stickers.
 
+### TODO
 1. Add support for animated, static stickers
 2. dockerize
