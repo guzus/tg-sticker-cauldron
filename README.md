@@ -1,12 +1,6 @@
-# tg-sticker-creator
+# tg-sticker-cauldron
 
-## python version
-3.10.5
+[![Python 3.10](https://img.shields.io/badge/python-3.10-yellow.svg)](https://www.python.org/downloads/release/python-3106/)
 
 ## TODO
-- convert file format from mp4 to webm
-- resize webm file (max width, height)
-- compress webm file
-- cut webm file (max duration)
-
 - dockerize
