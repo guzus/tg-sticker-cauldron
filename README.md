@@ -12,8 +12,9 @@ Easily generate telegram stickers by:
 - Generate a sticker pack from a directory of images.
 
 ## Run
-1. Install ffmpeg
-2. Install python requirements, and run
+1. Install ffmpeg (If you're a mac, simply run `brew install ffmpeg`)
+2. Place your video in `src/input` directory. 
+3. Install python requirements, and run
 
 ```shell
 python3 src/main.py
