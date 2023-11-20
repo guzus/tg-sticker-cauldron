@@ -2,6 +2,8 @@
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-yellow.svg)](https://www.python.org/downloads/release/python-3106/)
 
+![image](https://github.com/guzus/tg-sticker-cauldron/assets/50664161/f190d430-d07f-45fe-a826-52ba1f6cd2b4)
+
 ## Telegram stickers
 
 https://core.telegram.org/stickers
